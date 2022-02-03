@@ -1,0 +1,36 @@
+.addBook {
+    background-color: white;
+    >h1 {
+        text-align: center;
+        margin: 0;
+        padding: 20px;
+    }
+    padding: 0 0 100px 0;
+}
+
+.bookForm {
+    text-align: center;
+    padding: 20px;
+    >div {
+        font-size: 20px;
+        margin: 20px 0;
+        label {
+            display: block;
+            margin: 10px;
+        }
+        input {
+            outline: none;
+            width: 30%;
+            height: 50px;
+            border: none;
+            background-color: rgb(238, 238, 238);
+        }
+    }
+}
+
+.btn {
+    display: block;
+    margin: 20px auto;
+    width: 150px;
+    height: 25px;
+}

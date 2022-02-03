@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "title": "In Search of Lost Time",
+      "author": "Marcel Proust",
+      "category": "Fantasy",
+      "ISBN": "978-1-60309-025-1"
+    },
+    {
+      "id": 2,
+      "title": " Ulysses",
+      "author": "James Joyce",
+      "category": "Fantasy",
+      "ISBN": "978-1-60309-025-2"
+    },
+    {
+      "id": 3,
+      "title": "Don Quixote",
+      "author": "Miguel de Cervantes",
+      "category": "Fantasy",
+      "ISBN": "978-1-60309-025-3"
+    },
+    {
+      "id": 4,
+      "title": "One Hundred Years of Solitude",
+      "author": " Gabriel Garcia Marquez",
+      "category": "Adventure",
+      "ISBN": "978-1-60309-025-4"
+    },
+    {
+      "id": 5,
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "category": "Adventure",
+      "ISBN": "978-1-60309-025-5"
+    },
+    {
+      "id": 6,
+      "title": "Moby Dick",
+      "author": "Herman Melville",
+      "category": "Adventure",
+      "ISBN": "978-1-60309-025-6"
+    },
+    {
+      "id": 7,
+      "title": "War and Peace",
+      "author": "Leo Tolstoy",
+      "category": "Romance",
+      "ISBN": "978-1-60309-025-7"
+    },
+    {
+      "id": 8,
+      "title": "Hamlet",
+      "author": "William Shakespeare",
+      "category": "Romance",
+      "ISBN": "978-1-60309-025-8"
+    },
+    {
+      "id": 9,
+      "title": "The Odyssey",
+      "author": "Homer",
+      "category": "Romance",
+      "ISBN": "978-1-60309-025-9"
+    }
+  ]
+}

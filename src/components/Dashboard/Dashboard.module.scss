@@ -1,0 +1,32 @@
+.dashboard {
+    ul {
+        column-count: 3;
+        li {
+            list-style: none;
+            background-color: white;
+            margin: 20px;
+            padding: 10px;
+            &:first-of-type {
+                margin-top: 0;
+            }
+            p {
+                &:first-of-type {
+                    font-weight: bold;
+                }
+            }
+        }
+    }
+}
+
+.btn {
+    width: 100px;
+    background-color: pink;
+    border: none;
+    color: white;
+    height: 50px;
+    text-decoration: none;
+    &:hover {
+        cursor: pointer;
+        background-color: palevioletred;
+    }
+}
